@@ -24,7 +24,8 @@ mining:
         miner:
             executable: cuda29
             extra_args: ""
-            repeats: 7
+            instances: 6
+            repeats: 5
             edge_bits: 29
             hex_encoded_header: true
 
