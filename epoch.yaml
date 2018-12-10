@@ -1,7 +1,6 @@
 ---
 sync:
-    port: 3115
-    external_port: 3015
+    port: 3015
 
 keys:
     dir: keys
